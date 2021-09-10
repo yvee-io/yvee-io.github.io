@@ -1097,7 +1097,6 @@ section {
 
 .clients .client-logo img {
   max-width: 50%;
-  filter: grayscale(100);
 }
 
 .clients .client-logo:hover img {
